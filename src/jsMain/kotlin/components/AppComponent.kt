@@ -1,14 +1,14 @@
 package components
 
-import Boundary
-import Node
-import Position
-import SelfAvoidingPathGenerator
 import kotlinx.coroutines.*
 import kotlinx.css.Color
 import kotlinx.css.backgroundColor
 import kotlinx.css.fontSize
 import kotlinx.css.px
+import org.fuho.sheefra.Boundary
+import org.fuho.sheefra.Node
+import org.fuho.sheefra.Position
+import org.fuho.sheefra.SelfAvoidingPathGenerator
 import react.*
 import styled.css
 import styled.styledDiv

@@ -1,13 +1,13 @@
 package components
 
-import Boundary
-import CardinalDirection
-import Node
 import kotlinx.css.*
 import kotlinx.css.properties.LineHeight
 import kotlinx.css.properties.Transforms
 import kotlinx.css.properties.deg
 import kotlinx.css.properties.rotate
+import org.fuho.sheefra.Boundary
+import org.fuho.sheefra.CardinalDirection
+import org.fuho.sheefra.Node
 import react.*
 import styled.css
 import styled.styledDiv
