@@ -12,6 +12,7 @@ import react.*
 import styled.css
 import styled.styledDiv
 import styled.styledSpan
+import kotlin.Float
 
 
 external interface MazeMessageProps : RProps {
