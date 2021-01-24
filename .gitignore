@@ -1,5 +1,5 @@
-build/
-.gradle/
+/build/
+.gradle
 
 
 # Created by .ignore support plugin (hsz.mobi)
